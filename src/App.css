@@ -1,0 +1,12 @@
+.App{
+  width:100vh;
+  min-width: 140vh;
+  height:100vh;
+  min-height: 160vh;
+  border:solid black 1px;
+  box-shadow: 1px 1px 1px 1px;
+  background-color: antiquewhite;
+  margin:auto;
+  margin-top:3%;
+  
+}
